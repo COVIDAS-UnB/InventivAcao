@@ -5,11 +5,12 @@ Somos um grupo formado por alunos da UnB, IFB e de outras instituições.
 Área de Atuação: Desenvolvimento de Dispositivos (produto, equipamento, gadget, entre outros);
 
 Problema proposto pelo Comissão Organizadora para solucionarmos:
+          
           1. Garantir e promover de forma continuada a assepsia das mãos por parte dos usuários.
           
 # FAQ - Perguntas Frequentes
 
-Além do projeto, criamos uma lista de perguntas relacionadas ao projeto que a vocês possam ter. 
+Além do projeto, criamos uma lista de respostas para possiveis perguntas em relação ao projeto. 
 
 # Material complementar 
 
