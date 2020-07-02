@@ -6,16 +6,20 @@ Somos um grupo formado por alunos da UnB, IFB e de outras instituições.
 
 Problema proposto pelo Comissão Organizadora para solucionarmos:
           
-          1. Garantir e promover de forma continuada a assepsia das mãos por parte dos usuários.
+* Garantir e promover de forma continuada a assepsia das mãos por parte dos usuários.
           
 # FAQ - Perguntas Frequentes
 
-Além do projeto, criamos uma lista de respostas para possiveis perguntas em relação ao projeto. 
+* [FAC](./docs/FAQPerguntasFrequentes.pdf)
+
+Além do projeto, criamos uma lista de respostas para possiveis perguntas em relação ao projeto
 
 # Material complementar 
 
 Essa pasta contém modelagem, desenhos e videos sobre os protótipos e propostas de cartazes para auxiliar a utilização dos dispositivos. 
 
+[Acesse a pasta](./docs/Material-complementar/)
+
 # Pitch 
 
-Link < https://youtu.be/ibQLb_-q-R0 > 
+https://youtu.be/ibQLb_-q-R0 
