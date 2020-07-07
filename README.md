@@ -10,7 +10,7 @@ Problema proposto pelo Comissão Organizadora para solucionarmos:
           
 # FAQ - Perguntas Frequentes
 
-* [FAC](./docs/FAQPerguntasFrequentes.pdf)
+* [FAQ](./docs/FAQPerguntasFrequentes.pdf)
 
 Além do projeto, criamos uma lista de respostas para possiveis perguntas em relação ao projeto
 
