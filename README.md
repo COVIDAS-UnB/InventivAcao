@@ -22,4 +22,4 @@ Essa pasta contém modelagem, desenhos e videos sobre os protótipos e propostas
 
 # Pitch 
 
-https://youtu.be/ibQLb_-q-R0 
+
